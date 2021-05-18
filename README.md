@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michal Václavek
-- 👀 I’m interested in sience and programming
+- 👀 I’m interested in physics, programming and archery.
 - 🌱 I’m currently learning Microservices with Spring Boot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: vaclavek.michal@gmail.com
